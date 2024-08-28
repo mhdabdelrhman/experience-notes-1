@@ -26,7 +26,7 @@ Thank you for considering my application for the Senior Software Developer posit
 ## 2. GPT API Integration
 ### Project 1: [Workiom-AI]
 - **URL**: https://help.workiom.com/article/workiom-ai
-- **Description**: Workion is No-Code SaaS platform and Workiom AI is an intelligent agent designed to help clients create apps schemas for their data. This application leverages integrations with both the OpenAI API and Azure AI.
+- **Description**: Workiom is No-Code SaaS platform and Workiom AI is an intelligent agent designed to help clients create apps schemas for their data. This application leverages integrations with both the OpenAI API and Azure AI.
 - **My Role**:  As a senior backend developer, I utilized the OpenAI Client SDK and Azure AI SDK for .NET to build a flexible integration interface, enabling the project owner to switch between the two AI services at runtime. I also crafted the prompts to guide GPT in understanding the requirements and delivering accurate results. The system includes two APIs: one generates the application schema as text (displayed on the left side in the following image), and the other generates a project schema in JSON format (right side in the image), which can be used by both frontend and backend applications to create the app's entities.
 ![image](https://github.com/user-attachments/assets/7d1b616e-e7ea-453b-834e-58c874386da8)
 
